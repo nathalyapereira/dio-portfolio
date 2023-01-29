@@ -20,8 +20,6 @@ function updateProfileInfo(profileData) {
     email.innerText = profileData.email
     email.href = `mailto:${profileData.email}`
 
-
-
 }
 
 (async () => {
