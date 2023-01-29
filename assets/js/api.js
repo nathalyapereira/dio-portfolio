@@ -1,5 +1,5 @@
 async function fetchProfileData() {
-    const url = 'https://raw.githubusercontent.com/nathalyapereira/dio-portfolio/main/profile.json';
+    const url = 'https://github.com/nathalyapereira/dio-portfolio/blob/main/data/profile.json';
     const fetching = await fetch(url)
     return await fetching.json();
 }
