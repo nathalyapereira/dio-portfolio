@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "javaScript",
-        "logo": "https://raw.githubusercontent.com/nathalyapereira/dio-portfolio/main/data/imgs/js.png?token=GHSAT0AAAAAAB5DGHUSSBFJEXKN7VEGPE56Y6XFUPQ"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/nathalyapereira/dio-portfolio/main/data/imgs/html.png?token=GHSAT0AAAAAAB5DGHUTIP6S7AGSS4VOAI6YY6XFXUA"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/nathalyapereira/dio-portfolio/main/data/imgs/css.png?token=GHSAT0AAAAAAB5DGHUTADLXDO5LHZZTSXR4Y6XFZYQ"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/nathalyapereira/dio-portfolio/main/data/imgs/java.png?token=GHSAT0AAAAAAB5DGHUSPUAUHOKM7KCMQHR2Y6XF5TA"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       }
     ],
     "softSkills": [
